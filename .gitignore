@@ -27,3 +27,13 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ configs
+.idea/
+*.iml
+
+# Pasta de compilação
+out/
+
+# Pasta extra que não quer no repo
+pasta/
